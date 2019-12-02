@@ -1,5 +1,5 @@
 Reason:
-I would like to share my personal script that I use during CTFs. Scanning all ports with nmap may take a long time to produce an output. This is the script that might be useful for quickly scanning all ports.
+I would like to share my personal script that I use during CTFs. Scanning all ports with nmap may take a long time to produce an output. This is script might be useful for quickly scanning all ports.
 
 
 Description:
