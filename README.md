@@ -7,4 +7,5 @@ Nmap scans all ports with "max-retries 2" option then based on open ports, it sc
 
 ## Usage
 Give the IP address that you want to scan as an argument.
+
 Example: ./nmapfast.sh 10.10.10.10
